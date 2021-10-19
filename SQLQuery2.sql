@@ -1,0 +1,4 @@
+USE testeSQLSSH
+GO
+INSERT INTO teste VALUES
+(1, 'teste1')
